@@ -5,7 +5,7 @@ from globals import FOOD as food, GHOSTS as ghosts
 from characters import ghost, doboggi, doboggi_man 
 # Import our game character classes
 
-from lab13_p3 import auto_doboggi_man
+from p1 import auto_doboggi_man
 # Import your self-moving auto_doboggi_man class
 
 import turtle

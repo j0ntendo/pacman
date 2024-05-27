@@ -1,6 +1,6 @@
 # Doboggi Man (Pac-Man)
 
-Doboggi Man is a Pac-Man-like game written in Python. In this game, the player controls a character to eat Tteok-bokki while avoiding ghosts. The game utilizes the Turtle graphics library for visualization.
+Doboggi Man is a Pac-Man-like game written in Python. In this game, the pacman avoids all of the ghosts while eating all of the Tteok-bokki. The game utilizes the Turtle graphics library for visualization.
 
 ## Game Features
 
